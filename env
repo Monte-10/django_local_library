@@ -1,8 +1,2 @@
-# Connection details
-PGHOST=ep-floral-flower-150155.eu-central-1.aws.neon.tech
-PGDATABASE=neondb
 PGUSER=Monte-10
-PGPASSWORD=n7uDGS0sfJzv
-
-# Connection string
-DATABASE_URL=postgres://Monte-10:n7uDGS0sfJzv@ep-floral-flower-150155.eu-central-1.aws.neon.tech/neondb
+PGPASSWORD=WqO3JDG9HSNE
