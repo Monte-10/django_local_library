@@ -170,4 +170,4 @@ DEBUG = os.getenv('DEBUG', '0').lower() in ['true', 't', '1']
 
 ALLOWED_HOSTS = os.getenv('ALLOWED_HOSTS').split(' ')
 
-ALLOWED_HOSTS = 'https://locallibrary-myhq.onrender.com'
+ALLOWED_HOSTS += 'https://locallibrary-myhq.onrender.com'
